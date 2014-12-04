@@ -1,5 +1,3 @@
-========================================================================
-    CONSOLE APPLICATION : AStart Project Overview
-========================================================================
+# A* Search Algorithm
 
-The program simply loads in hard coded terrain information and uses A* to find the shortest path.  The algorithm can be used for any arbitrary searches.
+An implementation of A* for searching terrain information to find the shortest path to a destination.  The program can load terrain information from a file and renders a simple view of how if found the shortest path.
